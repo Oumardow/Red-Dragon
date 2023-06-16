@@ -49,9 +49,9 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+223 72 26 81 34']
 global.ownertag = '+223 72 26 81 34' //your tag number
-global.botname = '༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆' //ur bot name
+global.botname = 'Samy❣️; Hermes' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "༆𝗠𝗔𝗗𝗔𝗥𝗔❦︎𝗨𝗖𝗛𝗜𝗪𝗔༆" // sticker author
+global.author = "Samy❣️; Hermes" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
